@@ -10,9 +10,6 @@
 
 演示地址：https://demo.yfcrm.cn/
 
-官方微信群二维码：
-
-![微信群.png](https://raw.gitcode.com/user-images/assets/10906922/71388658-b8f0-4861-8af9-f733390400d4/微信群.png '微信群.png')
 
 三、下载说明：
 
