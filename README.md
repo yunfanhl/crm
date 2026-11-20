@@ -10,16 +10,11 @@
 
 演示地址：https://demo.yfcrm.cn/
 
+桌面客户端下载地址：https://www.yfcrm.cn/download.html
 
-三、下载说明：
-
-    1.下载程序运行包，解压后按README.md文件，按部署说明操作即可。
+官方微信/电话：18710213152
     
-    2.部署的过程中如遇到问题，可以先自行排查或加官方微信群进行沟通。
-    
-    3.运行包下载后可免费试用两周。过了免费期如还需要继续使用，请联系客户经理进行续费。
-    
-四、系统截图
+三、系统截图
 ![登录.png](https://raw.gitcode.com/user-images/assets/10906922/a13f2613-e35c-4241-ada7-0beb3178287c/登录.png '登录.png')
 图1-登录界面
 ![首页.png](https://raw.gitcode.com/user-images/assets/10906922/7304f604-9992-4aea-baf6-6ac7988c6386/首页.png '首页.png')
