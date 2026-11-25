@@ -1,4 +1,4 @@
-<img width="3452" height="1978" alt="QQ_1795572846491" src="https://github.com/user-attachments/assets/0330d1f9-0def-4101-83f0-b2e4d9402f22" /># 云帆智能客户管理系统
+# 云帆智能客户管理系统
 
 一、产品功能
 
@@ -21,6 +21,7 @@
     
     3.下载后可免费试用两周。过了免费期如还需要继续使用，请联系客户经理进行续费。
 四、系统截图
+
 <img width="3452" height="1978" alt="QQ_1795572846491" src="https://github.com/user-attachments/assets/6c148dc9-6d97-4893-b262-157e2643acb0" />
 
 <img width="3454" height="2036" alt="QQ_1795572822659" src="https://github.com/user-attachments/assets/459df248-30e6-48a7-a5ef-ebbb77f76022" />
