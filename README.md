@@ -11,7 +11,7 @@
 
 演示地址：https://demo.yfcrm.cn/
 
-桌面客户端下载地址：https://www.yfcrm.cn/download.html
+桌面客户端和程序部署包下载地址：https://www.yfcrm.cn/download.html
 （可以免费试用两周）
 
 官方微信/电话：18710213152
